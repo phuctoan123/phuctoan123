@@ -14,11 +14,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Researcher;Machine+Learning+Engineer;Open+Source+Contributor;Exploring+LLMs+and+Retrieval+Systems;Building+Practical+AI+Applications" />
 </p>
+
+
+---
 <p align="left">
   My portfolio: https://your-portfolio-one.vercel.app/
 </p>
-
----
 
 ## 🧠 About Me
 
