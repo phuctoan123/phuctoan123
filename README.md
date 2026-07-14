@@ -22,12 +22,11 @@
 </p>
 
 ## 🧠 About Me
-
-- 🔬 Interested in **Machine Learning**, **LLMs**, **NLP**, and **Retrieval Systems**
-- 🛠 Currently learning **MLOps**, **Docker**, and scalable AI systems
-- 🤝 Contributing to open-source AI projects
-- 📚 Passionate about research-driven engineering
-- 🚀 Exploring practical applications of AI in real-world systems
+🔬 Interested in **Machine Learning**, **LLMs**, **NLP**, and **Retrieval Systems**
+🛠 Currently learning **MLOps**, **Docker**, and scalable AI systems
+🤝 Contributing to open-source AI projects
+📚 Passionate about research-driven engineering
+🚀 Exploring practical applications of AI in real-world systems
 
 ---
 
