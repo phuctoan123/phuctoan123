@@ -7,6 +7,9 @@
 <p align="center">
   Building intelligent systems with Machine Learning, NLP, and Retrieval-Augmented Generation.
 </p>
+<p align="left">
+  My portfolio: https://your-portfolio-one.vercel.app/
+</p>
 
 ---
 
